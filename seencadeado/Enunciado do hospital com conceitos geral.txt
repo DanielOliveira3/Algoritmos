@@ -1,0 +1,5 @@
+Enunciado Portugol
+
+Elabore um algoritmo para um hospital na qual terá uma tela de login e precisará inserir o usuário e a senha para entrar no sistema (É necessário que a senha e usuária estejam corretos para acessar o sistema, se não estivem certo o acesso irá bloquear), após digitar tudo certo aparecera uma opção que vai ser cadastrar 3 pacientes (nome, idade, gênero, remédio necessário e a quantidade do remédio) no sistema.
+Após o cadastro aparecera para acessar os dados do paciente cadastrado sendo necessário digitar o nome do paciente que você acaba de registrar para aparecer seus dados, se digitar errado o nome aparece que o paciente não foi registrado. 
+Mas para a busca dos dados do paciente funcionar primeiro tem que registrar o paciente.  

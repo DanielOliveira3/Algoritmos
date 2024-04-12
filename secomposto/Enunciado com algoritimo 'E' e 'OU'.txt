@@ -1,0 +1,13 @@
+E
+
+- Faça um algoritimo para uma vijar utilizando o "E". Na qual a pessoa tera que chegar na hora para o avião e tem que estar com visto, 
+se você nao chegar na hora e nao estar com o visto não realiza a viajem, 
+se chegar na hora e nao estiver com o visto não realiza a viajem, se nao chegar na hora e estiver com visto nao realiza a viajem, 
+se chegar na hora e estiver com o visto você podera realizar a viajem.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+OU
+
+- Faça um algoritimo para mensalidade da fatura utilizando "OU". Na qual a pessoa tera que escolher 
+se ira pagar no pix ou dinheiro ou cartao, se ele nao escolher nenhuma forma de pagamento ira dar errado e se ele escolher ira efetuar o pagamento com sucesso.
