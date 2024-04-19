@@ -29,4 +29,11 @@ commit 4: Passo a Passo de instalação
 
 5. Quando a instalação estiver concluída, clique em "Finish" para sair do instalador.
 
+6. Depois de instalado, o VSCode pode ser encontrado no menu Iniciar ou na área de trabalho. Clique duas vezes no ícone para abrir o VSCode.
 
+
+commit 5: Configuração inicial VSCode 
+
+1. Quando você abrir o VSCode pela primeira vez, pode ser solicitado que você instale algumas extensões recomendadas. Você pode optar por instalar ou ignorar essas extensões por enquanto
+
+2. Você também pode personalizar suas preferências, como tema, fonte, atalhos de teclado, entre outros, acessando as configurações do VSCode.
