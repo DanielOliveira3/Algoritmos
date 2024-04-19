@@ -1,5 +1,22 @@
 
-commit 1: Bom dia!, neste tutorial irei explicar sobre o python e mostrar passo a passo da instalação do python no computador ou maquina virtual
+commit 1: Iniciando tutorial do python
+
+ Bom dia!, neste tutorial irei explicar sobre o python e mostrar passo a passo da instalação do python no computador ou maquina virtual
 
 
-commit 2: Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela tem ganhado cada vez mais destaque no mundo da programação. Com uma sintaxe clara e concisa, é considerada uma das linguagens mais fáceis de aprender, o que a torna uma escolha popular tanto para iniciantes como para programadores experientes.
+commit 2: Explicando o que é python
+
+ Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela tem ganhado cada vez mais destaque no mundo da programação. Com uma sintaxe clara e concisa, é considerada uma das linguagens mais fáceis de aprender, o que a torna uma escolha popular tanto para iniciantes como para programadores experientes.
+
+
+commit 3: Passo a Passo para o download
+
+1-Abra o navegador
+
+2- Acesse o site oficial do python em https://www.python.org/
+
+3- clique no link "Downloads" no menu principal
+
+4- Na página de downloads, você verá os links para as versões disponíveis do Python. Escolha a versão mais recente e clique nela para acessar a página de download.
+
+5- Role a página para baixo até encontrar a seção "Files". Lá você verá diferentes opções de instalação. Para a maioria dos usuários, é recomendado baixar o instalador do python para windows (x86-64 ou x86, dependendo da arquitetura do seu sistema)
