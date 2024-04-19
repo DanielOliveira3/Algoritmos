@@ -8,4 +8,12 @@ commit 2: Explicando o que é VSCode
  O VSCode, ou Visual Studio Code, é um editor de código-fonte desenvolvido pela Microsoft. É gratuito, de código aberto e disponível para Windows, macOS e Linux. Ele suporta uma variedade de linguagens de programação e frameworks e é altamente personalizável, permitindo aos usuários instalar extensões para adicionar novas funcionalidades. É conhecido por sua interface limpa e eficiente e por recursos como depuração integrada, controle de versão Git e um terminal integrado.
 
 
+commit 3: Passo a Passo para o download
+
+1. Abra um navegador da web.
+
+2. Acesse o site oficial do Visual Studio Code em https://code.visualstudio.com/
+
+3. Clique no botão "Download" para baixar o instalador adequado para o seu sistema operacional (Windows, macOS ou Linux).
+
 
