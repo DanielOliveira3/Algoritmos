@@ -30,8 +30,40 @@ commit 4: Passo a Passo de instalação
 
 3- Siga as instruções na tela do instalador. Você pode optar por aceitar as configurações padrão, a menos que tenha razões específicas para modificá-las.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+commit 5: Como configurar o virtualenv.
+
+1- Para configurar o Virtualenv no Python, primeiro você precisa instalá-lo usando o pip, o gerenciador de pacotes do Python. Você pode fazer isso usando o seguinte comando:
+
+pip install virtualenv
+
+2-Depois de instalar o Virtualenv, você pode criar um ambiente virtual usando o seguinte comando:
+
+virtualenv nome_do_seu_ambiente
+
+O mais comum é criar a virtualenv na raiz do projeto que ela irá pertencer. Isso permite uma organização maior das virtualenvs que possuímos em nosso computador. 
+
+Com isso, criamos a virtualenv do projeto chamada “venv”. É ela quem vai comportar todos os pacotes necessários para a execução do projeto.
+
+3-Em seguida, ative o ambiente virtual executando o comando apropriado para o seu sistema operacional:
+
+No Windows:
+
+nome_do_seu_ambiente\Scripts\activate
+
+
+No macOS e Linux:
+
+source nome_do_seu_ambiente/bin/activate
+
+
+>Quando você ativa o ambiente virtual, seu prompt de comando mudará para indicar que você está trabalhando dentro do ambiente virtual. Isso isola suas dependências do Python do sistema principal, permitindo que você trabalhe em projetos com diferentes conjuntos de bibliotecas sem conflitos.
+
+
+4-Para desativar uma virtualenv utilizamos o comando: deactivate
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 -Agora você tem o python instalado no seu computador Windows e está pronto para começar a programar.
 
 -Você pode escrever seus scripts python em qualquer editor de texto e executá-los a partir do prompt de comando.
