@@ -17,3 +17,16 @@ commit 3: Passo a Passo para o download
 3. Clique no botão "Download" para baixar o instalador adequado para o seu sistema operacional (Windows, macOS ou Linux).
 
 
+commit 4: Passo a Passo de instalação
+
+1. Após o download ser concluído, localize o arquivo de instalação (normalmente na pasta de downloads) e clique duas vezes para iniciá-lo.
+
+2. Siga as instruções do instalador para configurar o Visual Studio Code em seu computador. Você pode manter as configurações padrão ou personalizá-las de acordo com suas preferências.
+
+3. Durante a instalação, você pode optar por adicionar o VSCode ao PATH do sistema para acessá-lo facilmente a partir da linha de comando.
+
+4. Clique em "Next" para avançar através das etapas do instalador.
+
+5. Quando a instalação estiver concluída, clique em "Finish" para sair do instalador.
+
+
