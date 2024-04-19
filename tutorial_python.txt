@@ -20,3 +20,19 @@ commit 3: Passo a Passo para o download
 4- Na página de downloads, você verá os links para as versões disponíveis do Python. Escolha a versão mais recente e clique nela para acessar a página de download.
 
 5- Role a página para baixo até encontrar a seção "Files". Lá você verá diferentes opções de instalação. Para a maioria dos usuários, é recomendado baixar o instalador do python para windows (x86-64 ou x86, dependendo da arquitetura do seu sistema)
+
+
+commit 4: Passo a Passo de instalação
+
+1- Após o download ser concluído, localize o arquivo baixado (provavelmente na pasta de downloads) e dê um duplo clique nele para incia o instalador.
+
+2- Marque a opção "Add python X.X to PATH" durante o processo de instalação. isso garantirá que o python seja adicionado ao PATH do sistema, permitindo que você o execute facilmente a partir do prompt de comando
+
+3- Siga as instruções na tela do instalador. Você pode optar por aceitar as configurações padrão, a menos que tenha razões específicas para modificá-las.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-Agora você tem o python instalado no seu computador Windows e está pronto para começar a programar.
+
+-Você pode escrever seus scripts python em qualquer editor de texto e executá-los a partir do prompt de comando.
+
