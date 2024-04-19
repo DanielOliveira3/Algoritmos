@@ -2,6 +2,8 @@ commit 1: Iniciando tutorial do VSCode
 
  Bom dia!, neste tutorial irei explicar sobre o VSCode e mostrar passo a passo da instalação do VSCode no computador ou maquina virtual.
 
+Com este tutorial, você deve ser capaz de instalar o Visual Studio Code em seu computador e começar a usá-lo para desenvolver seus projetos de software.
+
 
 commit 2: Explicando o que é VSCode
 
@@ -37,3 +39,14 @@ commit 5: Configuração inicial VSCode
 1. Quando você abrir o VSCode pela primeira vez, pode ser solicitado que você instale algumas extensões recomendadas. Você pode optar por instalar ou ignorar essas extensões por enquanto
 
 2. Você também pode personalizar suas preferências, como tema, fonte, atalhos de teclado, entre outros, acessando as configurações do VSCode.
+
+
+commit 6: instalar extensões (opcional)
+
+1. O Visual Studio Code é altamente extensível e você pode adicionar funcionalidades extras instalando extensões.
+
+2. Para instalar extensões, clique no ícone de extensões na barra lateral esquerda ou pressione Ctrl+Shift+X. Pesquise as extensões desejadas e clique em "Instalar".
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Agora que o Visual Studio Code está instalado e configurado em seu computador, você está pronto para começar a programar.
