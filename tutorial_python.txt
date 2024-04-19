@@ -1,2 +1,5 @@
 
 commit 1: Bom dia!, neste tutorial irei explicar sobre o python e mostrar passo a passo da instalação do python no computador ou maquina virtual
+
+
+commit 2: Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela tem ganhado cada vez mais destaque no mundo da programação. Com uma sintaxe clara e concisa, é considerada uma das linguagens mais fáceis de aprender, o que a torna uma escolha popular tanto para iniciantes como para programadores experientes.
