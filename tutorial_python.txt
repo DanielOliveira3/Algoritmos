@@ -1,0 +1,2 @@
+
+commit 1: Bom dia!, neste tutorial irei explicar sobre o python e mostrar passo a passo da instalação do python no computador ou maquina virtual
