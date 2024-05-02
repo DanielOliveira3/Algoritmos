@@ -2,26 +2,36 @@ programa {
   funcao inicio() {
 
     real distancia, velocidade, tempo
-    cadeia localizacao, destino
+    cadeia localizacao, destino, nome
 
-
-    escreva("\nDigite abaixo os dados para mostrar o tempo que levar· para realizar o percurso desejado")
+    escreva("\n-------------------------------------------------------------------------------------------")
     escreva("\n")
-    escreva("\nLocalizaÁ„o atual: ")
+    escreva ("\nDigite abaixo o seu nome para acessar o programa")
+    escreva("\n")
+    escreva("\nnome do motorista: ")
+    leia(nome)
+    escreva("---------------------------------------------------------------------------------------------")
+    
+
+    limpa()
+
+    escreva("\nDigite abaixo os dados para mostrar o tempo que levar√° para realizar o percurso desejado")
+    escreva("\n")
+    escreva("\nLocaliza√ß√£o atual: ")
     leia(localizacao)
     escreva("\nDestino final: ")
     leia(destino)
 
     limpa()
 
-    escreva("\nDigite abaixo os dados para mostrar o tempo que levar· para realizar o percurso desejado")
+    escreva("\nDigite abaixo os dados para mostrar o tempo que levar√° para realizar o percurso desejado")
     escreva("\n")
 
-    escreva("\nQual a distancia do local atual atÈ o destino final em km: ")
+    escreva("\nQual a distancia do local atual at√© o destino final em km: ")
     leia(distancia)
    
 
-    escreva("\nDigite em qual velocidade do veÌculo em horas: ")
+    escreva("\nDigite em qual velocidade do ve√≠culo em horas: ")
     leia(velocidade)
 
     tempo = distancia / velocidade
@@ -30,10 +40,22 @@ programa {
     limpa()
     escreva("\n-------------------------------------------------------------------------------------------")
     escreva("\n")
-    escreva ("\n VocÍ levar· ", tempo ," horas para ir de ", localizacao," para ", destino)
+    escreva ("\n", nome,  " voc√™ levar√° ", tempo ," horas para ir de ", localizacao," para ", destino)
     escreva("\n")
     escreva("\n-------------------------------------------------------------------------------------------")
 
 
   }
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta se√ß√£o do arquivo guarda informa√ß√µes do Portugol Studio.
+ * Voc√™ pode apag√°-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 1361; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
